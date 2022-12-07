@@ -1,4 +1,17 @@
-Olá, me chamo Cássio Matsushita, sou formado em Ciência da Computação e sou de São Paulo-SP, Brasil. 
+Olá, meu nome é Cássio Matsushita. 
+
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><div dir="auto">
+ 
+   <p dir="auto">
+  <br>
+    </p><div dir="auto">
+  <p dir="auto"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>  Sou formado em Ciência da Computação.</p>
+  <img class="emoji" title=":neckbeard:" alt=":neckbeard:" src="https://github.githubassets.com/images/icons/emoji/neckbeard.png" height="20" width="20" align="absmiddle"> Adoro manter a mente ocupada resolvendo problemas.</p><p dir="auto">
+  </p><p dir="auto"> <g-emoji class="g-emoji" alias="heart_eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60d.png">😍</g-emoji> Gosto de filmes, séries, animes, músicas e cachorros.</p>
+      <div dir="auto">
+  <br>
+</div>
+<div align="center" dir="auto">
 
 
 
@@ -39,8 +52,7 @@ Olá, me chamo Cássio Matsushita, sou formado em Ciência da Computação e sou
             <span><strong>ESLint</strong></span><br>
             <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8ba0fdaf8e9ed09666decdff3cd38f0aa840bb98b594872cbd14b90caef7069c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f65736c696e742f65736c696e742d69636f6e2e737667"><img height="32px" src="https://camo.githubusercontent.com/8ba0fdaf8e9ed09666decdff3cd38f0aa840bb98b594872cbd14b90caef7069c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f65736c696e742f65736c696e742d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" style="max-width: 100%;"></a>
             </td>
-          
-          <td width="80px" align="center">
+            <td width="80px" align="center">
             <span><strong>Node.JS</strong></span><br>
             <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a7f17453cfb5f6a705c1337e7fa7556795376b9534bd0fad48f862c5284d57ca/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f6e6f64656a732d6f726967696e616c2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72"><img height="32px" src="https://camo.githubusercontent.com/a7f17453cfb5f6a705c1337e7fa7556795376b9534bd0fad48f862c5284d57ca/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f6e6f64656a732d6f726967696e616c2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" data-canonical-src="https://icongr.am/devicon/nodejs-original.svg?size=128&amp;color=currentColor" style="max-width: 100%;"></a>
             </td>
