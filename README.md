@@ -6,7 +6,7 @@ Olá, meu nome é Cássio Matsushita.
   <br>
     </p><div dir="auto">
   <p dir="auto"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>  Sou formado em Ciência da Computação.</p>
-  <img class="emoji" title=":neckbeard:" alt=":neckbeard:" src="https://github.githubassets.com/images/icons/emoji/neckbeard.png" height="20" width="20" align="absmiddle"> Adoro manter a mente ocupada resolvendo problemas.</p><p dir="auto">
+  <img class="emoji" title=":neckbeard:" alt=":neckbeard:" src="https://github.githubassets.com/images/icons/emoji/neckbeard.png" height="20" width="20" align="absmiddle"> Adoro Tecnologia e jogos(RPG e Estratégia).</p><p dir="auto">
   </p><p dir="auto"> <g-emoji class="g-emoji" alias="heart_eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60d.png">😍</g-emoji> Gosto de filmes, séries, animes, músicas e cachorros.</p>
       <div dir="auto">
   <br>
