@@ -10,6 +10,7 @@ Olá, meu nome é Cássio Matsushita.
   </p><p dir="auto"> <g-emoji class="g-emoji" alias="heart_eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60d.png">😍</g-emoji> Gosto de filmes, séries, animes, músicas e cachorros.</p>
       <div dir="auto">
   <br>
+  <p dir="auto"><strong>Entre em contato comigo via <a href="https://www.linkedin.com/in/cassio-matsushita/" title="Linkedin Cássio Matsushita" rel="nofollow">Linkedin</a> ou por <a href="mailto:superkoalabr@gmail.com">email</a></strong> :)</p>
 </div>
 <div align="center" dir="auto">
 
