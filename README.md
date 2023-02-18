@@ -11,7 +11,7 @@
 <h3> 🤝🏻 &nbsp;Entre em contato comigo </h3>
 
 <p align="center">
-<a href="[https://www.linkedin.com/in/AVS1508/](https://www.linkedin.com/in/cassio-matsushita/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cássio Matsushita-blue?style=flat-square&logo=linkedin"></a> &nbsp &nbsp
+<a href="https://www.linkedin.com/in/cassio-matsushita/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cássio Matsushita-blue?style=flat-square&logo=linkedin"></a> &nbsp &nbsp
 <a href="mailto:superkoalabr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-superkoalabr@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 </div>
