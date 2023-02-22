@@ -12,7 +12,8 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/cassio-matsushita/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cássio Matsushita-blue?style=flat-square&logo=linkedin"></a> &nbsp &nbsp
-<a href="mailto:superkoalabr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-superkoalabr@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://cassio-matsushita.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Cássio Matsushita-blue?style=flat-square&logo=google-chrome"></a> &nbsp &nbsp
+<a href="mailto:superkoalabr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-superkoalabr@gmail.com-blue?style=flat-square&logo=gmail"></a> 
 </p>
 </div>
 <div align="center" dir="auto">
