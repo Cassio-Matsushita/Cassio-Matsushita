@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre Mim </h3>
 
-- 🎓 &nbsp; Sou formado em Ciência da Computação e estou me especializando em Desenvolvimento Web Full Stack na Trybe.
+- 🎓 &nbsp; Sou formado em Ciência da Computação e estou me especializando em Desenvolvimento Web Full Stack.
 - 🤔 &nbsp; Sempre buscando novas tecnologias e desenvolvendo softwares para resolver problemas.
 - 🐕 &nbsp; Gosto de filmes, séries, animes, músicas, games e cachorros.
 - 🌱 &nbsp; Aprendendo mais sobre Game Design no meu tempo livre.
